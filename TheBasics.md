@@ -10,7 +10,7 @@ This is a study guide to relearning the bascics of Data Structures and Algorithm
 
 ## What are Basic Data Structures?
 - **[Arrays](#arrays)**: Fixed size , Block of memory to store Data
-- **[Linked Lists](#linked_list)** : A list of nodes that contain data and refrence link (pointer) to the next node
+- **[Linked Lists](#linked_lists)** : A list of nodes that contain data and refrence link (pointer) to the next node
 - **[Trees](#trees)** : a collection of nodes that contain children nodes connected to Root. Heirachical Structure
 - **[Stacks](#stacks)** : LiFo. Insertion and Deletion only happens from the top.
 - **[Queues](#queues)** : FiFo. Insertion from bottom/end and Deletion from front/top
@@ -29,7 +29,7 @@ This is a study guide to relearning the bascics of Data Structures and Algorithm
 |Search |O(N) |
 |Update Element |O(1) |
 
-# [Linked Lists](#linked_list)
+# [Linked Lists](#linked_lists)
 |Action | Time Complexity|
 | --- | --- |
 |Access Element | O(N) |
